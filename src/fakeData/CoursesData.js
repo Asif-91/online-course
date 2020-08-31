@@ -1,4 +1,5 @@
-let CourseData =[
+let CoursesData =
+[
     {
       "id": 1,
       "image": "https://prod-discovery.edx-cdn.org/media/course/image/f11c9289-596e-4c46-a9cb-318052f259ae-0b7656599f64.small.jpeg",
@@ -84,4 +85,4 @@ let CourseData =[
         "price": 540
       }
 ]
-export default CourseData;
+export default CoursesData;
